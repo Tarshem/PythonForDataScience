@@ -18,7 +18,7 @@ user chooses the data and filter for a dataset to analyze.
 * Python 3.7.4
 * Pandas 1.0.1
 * Numpy 1.18.1
-  
+* Pycharm IDE
 
   
 
